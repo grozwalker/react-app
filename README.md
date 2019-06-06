@@ -1,5 +1,8 @@
-## Usage
+## Contains
+* create-react-app
+* svgo (https://github.com/svg/svgo)
 
+## Usage
 ### Scaffold react application
 
 With create-react-app:
